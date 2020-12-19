@@ -1,0 +1,5 @@
+node_modules/
+kubernetes/
+.github/
+.circleci/
+config/
